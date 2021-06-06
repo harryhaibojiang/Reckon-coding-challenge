@@ -1,0 +1,6 @@
+.LogItemList {
+  border: 2px solid;
+  padding: 8px 16px;
+  height: 800px;
+  overflow-y: scroll;
+}
